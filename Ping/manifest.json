@@ -9,6 +9,7 @@
   ],
   "main": "./index.js",
   "vendetta": {
-    "icon": "ic_message_edit"
+    "icon": "ic_message_edit",
+    "original": "https://unknowndxv.github.io/revange-plugins/Ping/"
   }
 }
