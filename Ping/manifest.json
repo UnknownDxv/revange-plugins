@@ -1,5 +1,5 @@
 {
-  "name": "Ping",
+  "name": "ping",
   "description": "A simple slash command that replies with Pong!",
   "authors": [
     {
