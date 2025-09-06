@@ -1,0 +1,15 @@
+{
+  "name": "Ping",
+  "description": "A simple slash command that replies with Pong!",
+  "authors": [
+    {
+      "name": "innocent_jimmy",
+      "id": "1013815373407195258"
+    }
+  ],
+  "main": "index.js",
+  "version": "1.0.0",
+  "vendetta": {
+    "icon": "ic_message_edit"
+  }
+}
